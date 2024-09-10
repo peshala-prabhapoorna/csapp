@@ -1,2 +1,2 @@
 # csapp
-Example code and assignments from Computer Science - A Programmer's Perspective book.
+Example code and assignments from Computer Systems - A Programmer's Perspective book.
